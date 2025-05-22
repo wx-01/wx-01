@@ -1,16 +1,42 @@
-## Hi there 👋
+# 👋 Hi, I'm Wajid Ali
 
-<!--
-**wx-01/wx-01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final-year Computer Science student at Abasyn University (Graduating Dec 2025)  
+💻 Passionate about Full-Stack Web Development  
+📍 Based in Islamabad, Pakistan  
+🌐 Portfolio coming soon!
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack
+- **Frontend:** HTML, CSS, JavaScript, React.js, Tailwind CSS
+- **Backend:** Node.js, Express.js, MySQL, MongoDB
+- **Tools:** Git, VS Code, Render, Axios, Socket.io
+- **Currently Exploring:** Django, TypeScript, Next.js
+
+---
+
+## 🧩 Projects Showcase
+
+### 🔹 JavaScript Mini Projects
+- Color Flipper | Counter | Palindrome Checker  
+- Random Quote Generator | Reviews Slider  
+- Stopwatch | Word Counter | To-Do List  
+➡️ [View JS Projects](https://github.com/wx-01)
+
+
+### 🔹 Full-Stack Projects
+- **CRUD App –** Student Record Management  
+- **Movie Search App –** OMDB API + Tailwind  
+- **Chat App –** Real-time messaging with Socket.io  
+➡️ All available under my pinned repos
+
+---
+
+## 📫 Let's Connect
+- LinkedIn: [Wajid Ali](https://linkedin.com/in/YOUR-USERNAME-HERE)
+- GitHub: [@wx-01](https://github.com/wx-01)
+- Email: lordwx@gmail.com
+
+---
+
+Thanks for visiting! Stay tuned — I’m just getting started. 🚀
