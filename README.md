@@ -35,7 +35,7 @@
 ## 📫 Let's Connect
 - LinkedIn: [Wajid Ali](https://linkedin.com/in/YOUR-USERNAME-HERE)
 - GitHub: [@wx-01](https://github.com/wx-01)
-- Email: lordwx@gmail.com
+- Email: www.lordwx@gmail.com
 
 ---
 
