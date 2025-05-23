@@ -21,7 +21,7 @@
 - Color Flipper | Counter | Palindrome Checker  
 - Random Quote Generator | Reviews Slider  
 - Stopwatch | Word Counter | To-Do List  
-➡️ [View JS Projects](https://github.com/wx-01)
+➡️ [View JS Projects]([https://github.com/wx-01](https://github.com/wx-01?tab=repositories))
 
 
 ### 🔹 Full-Stack Projects
