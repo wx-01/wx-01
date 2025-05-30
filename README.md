@@ -3,7 +3,7 @@
 🎓 Final-year Computer Science student(Graduating Dec 2025)  
 💻 Passionate about Full-Stack Web Development  
 📍 Based in Islamabad, Pakistan  
-🌐 Portfolio -> (https://portfolio-thel.onrender.com/)
+🌐 Portfolio -> [WAJID ALI](https://portfolio-thel.onrender.com/)
 
 ---
 
