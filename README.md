@@ -40,7 +40,7 @@
 
 ## 📈 GitHub Stats
 
-![wx-01's Stats](https://github-readme-stats.vercel.app/api?username=wx-01&theme=radical&show_icons=true&hide_border=false&count_private=true)
+![wx-01's Stats](https://github-readme-stats.vercel.app/api?username=wx-01&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 
 ---
 
