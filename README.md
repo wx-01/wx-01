@@ -44,4 +44,4 @@
 
 ---
 
-Thanks for visiting! Stay tuned — I’m just getting started. 🚀
+Thanks for visiting! Stay tuned ... I’m just getting started. 🚀
